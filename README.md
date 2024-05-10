@@ -4,9 +4,13 @@ The Chris Rod Max Show Official Website
 
 ![Chris Rod Max](chrisrodmax.jpg "Chris Rod Max")
 
-We are Chris, Rod and Max!
+The Chris Rod Max Show dives deep into the world of AI and its transformative impact on businesses and enterprises. Hosted by Chris, Rod and Max, the show features engaging discussions and insightful analysis of the latest developments, trends, and challenges in the rapidly evolving AI landscape.
 
-Soon you will find here all episodes and extra materials of the Chris Rod Max Show, stay tuned!
+Each episode, the trio explores a wide range of topics, from the adoption of generative AI in large organizations to the emergence of cutting-edge AI startups. They examine the potential benefits and risks associated with AI implementation, discussing real-world use cases, quick wins, and bold, transformative initiatives.
+
+The show also features interviews with leading experts, innovators, and entrepreneurs in the AI space, providing listeners with unique perspectives and valuable insights from those at the forefront of this technological revolution.
+
+Whether you're a business leader looking to harness the power of AI, a technology enthusiast eager to stay up-to-date with the latest breakthroughs, or simply curious about the future of work and innovation, The Chris Rod Max Show is your go-to resource. Tune in for thought-provoking discussions, actionable advice, and a glimpse into the exciting future that AI holds for businesses and society as a whole.
 
 ## About us
 
