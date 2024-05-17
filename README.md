@@ -26,4 +26,4 @@ Short-form for Rodrigo :D [Rod](https://www.linkedin.com/in/aiengineer/) is a te
 
 
 ### Max
-[Max](https://www.linkedin.com/in/maxsontjy/)
+Short-form for Maxson. ;) [Max](https://www.linkedin.com/in/maxsontjy/) is a partnership and investment lead at a bank’s CVC unit with experience in the fintech and financial services sectors. Prior to this, he spent time advising senior leaders on strategic matters at Barclays and built the first DLT-based Syndicated Loan platform at Finastra. Max was a founding team member at AgriLedger, a DLT track-and-trace system that worked with The World Bank to serve small-holder farmers. When Max is not thinking about life, he enjoys physical exercises, learning something new, and a(many) game(s) of Catan.
