@@ -1,4 +1,4 @@
-The Chris Rod Max Show Official Website
+Chris Rod Max Show Official Website
 ==============
 ### Welcome to the website of our show!
 
@@ -12,7 +12,9 @@ The show also features interviews with leading experts, innovators, and entrepre
 
 Whether you're a business leader looking to harness the power of AI, a technology enthusiast eager to stay up-to-date with the latest breakthroughs, or simply curious about the future of work and innovation, The Chris Rod Max Show is your go-to resource. Tune in for thought-provoking discussions, actionable advice, and a glimpse into the exciting future that AI holds for businesses and society as a whole.
 
-Watch our episodes on [YouTube](https://www.youtube.com/@chrisrodmax) and on [LinkedIn](https://www.linkedin.com/company/chrisrodmax/)
+## Where to find us?
+
+Watch our episodes on [YouTube](https://www.youtube.com/@chrisrodmax) or [Spotify](https://podcasters.spotify.com/pod/show/chrisrodmaxshow/). Listen to them on [Soundcloud](http://soundcloud.com/chrisrodmax). Don't forget to follow us on [X](https://x.com/ChrisRodMax) and [LinkedIn](https://www.linkedin.com/company/chrisrodmax/).
 
 ## About us
 
