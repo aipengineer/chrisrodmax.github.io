@@ -12,6 +12,23 @@ The show also features interviews with leading experts, innovators, and entrepre
 
 Whether you're a business leader looking to harness the power of AI, a technology enthusiast eager to stay up-to-date with the latest breakthroughs, or simply curious about the future of work and innovation, The Chris Rod Max Show is your go-to resource. Tune in for thought-provoking discussions, actionable advice, and a glimpse into the exciting future that AI holds for businesses and society as a whole.
 
+## Episodes
+- [E14: NVIDIA's AI chip delays, Meta's open-source gambit & Big Tech's $100B AI spending spree](https://aiproduct.engineer/podcast/crm-show-e14)
+- [E13: The Evolution of Everything: Search, Chatbots, and AI's Growing Pains](https://aiproduct.engineer/podcast/crm-show-e13)
+- [E12: AI's $1.5B Week: Spatial Intelligence Boom, EU Regulation Showdown, Meta vs Data Rule](https://aiproduct.engineer/podcast/crm-show-e12)
+- [E11: AI's energy crisis, 20% freelancer wage drop & London's AI domination](https://aiproduct.engineer/podcast/crm-show-e11)
+- [E10: AI bets & pragmatism, Service sector disruption, Investment woes & the Aleph Alpha controversy](https://aiproduct.engineer/podcast/crm-show-e10)
+- [E09: AI reshapes music industry, Apple's stealth AI play, India's tech potential](https://aiproduct.engineer/podcast/crm-show-e09)
+- [E08: Transforming Workflows with Bardeen’s AI Automation Power](https://aiproduct.engineer/podcast/crm-show-e08)
+- [E07: Is AI leaving small businesses behind? NVIDIA's rise, McDonald's stumble, and the future of work](https://aiproduct.engineer/podcast/crm-show-e07)
+- [E06: AI Hype vs. Reality: $10M Gains for Klarna, But Security Fears Arise as Models Infiltrate Devices](https://aiproduct.engineer/podcast/crm-show-e06)
+- [E05: Automating the Masses: Predictions and Challenges for the Future of Work](https://aiproduct.engineer/podcast/crm-show-e05)
+- [E04: X AI's $6B Raise, Amazon vs Microsoft in Enterprise AI, Science Breakthroughs & More](https://aiproduct.engineer/podcast/crm-show-e04)
+- [E03: The AI Gold Rush: China's AI-in-a-Box Boom and the Global Race for AI Dominance](https://aiproduct.engineer/podcast/crm-show-e03)
+- [E02: OpenAI GPT-4o Reveal, Breaking AI Adoption Barriers, and the Disruptive Future of Work](https://aiproduct.engineer/podcast/crm-show-e02)
+- [E01: Generative AI Moonshots, Cybersecurity Startups, and the Enterprise Adoption Dance](https://aiproduct.engineer/podcast/crm-show-e01)
+- [E00: Welcome to The Chris Rod Max Show!](https://aiproduct.engineer/podcast/crm-show-e00)
+
 ## Where to find us?
 
 Watch our episodes on [YouTube](https://www.youtube.com/@chrisrodmax) or [Spotify](https://podcasters.spotify.com/pod/show/chrisrodmaxshow/). Listen to them on [Soundcloud](http://soundcloud.com/chrisrodmax). Don't forget to follow us on [X](https://x.com/ChrisRodMax) and [LinkedIn](https://www.linkedin.com/company/chrisrodmax/).
