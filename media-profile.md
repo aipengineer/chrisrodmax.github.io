@@ -36,9 +36,10 @@ Our audience primarily consists of:
 - Pre-interview briefing to discuss talking points and areas of focus
 
 ## Promotion and Exposure
-- Episode promotion across our social media channels (reaching more than 40 000 AI enthusiasts)
-- Guests are encouraged to share the episode with their network
-- Show notes with links to guest's company/projects on our website
+- Episode promotion across our social media channels with a combined following of over 50,000 AI enthusiasts and professionals
+- Featured placement of guest episodes on our website homepage for maximum visibility
+- Creation of shareable audiograms and quote cards from the episode for easy dissemination on social platforms
+
 
 ## About the Hosts
 
