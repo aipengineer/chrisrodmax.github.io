@@ -13,6 +13,9 @@ The show also features interviews with leading experts, innovators, and entrepre
 Whether you're a business leader looking to harness the power of AI, a technology enthusiast eager to stay up-to-date with the latest breakthroughs, or simply curious about the future of work and innovation, The Chris Rod Max Show is your go-to resource. Tune in for thought-provoking discussions, actionable advice, and a glimpse into the exciting future that AI holds for businesses and society as a whole.
 
 ## Episodes
+- [E17: AI Revolution Decoded: Eric Schmidt on Open Source, Big Tech's Edge, and Corporate Adoption](https://aiproduct.engineer/podcast/crm-show-e17)
+- [E16: GenAI's Impact on Walmart, L'Oréal, GE, VW, and Other Examples: What Works and What Doesn't](https://aiproduct.engineer/podcast/crm-show-e16)
+- [E15: Alexa's $25B problem, AI upends marketing & search, sommelier's tech insights | Kyle Tsai](https://aiproduct.engineer/podcast/crm-show-e15)
 - [E14: NVIDIA's AI chip delays, Meta's open-source gambit & Big Tech's $100B AI spending spree](https://aiproduct.engineer/podcast/crm-show-e14)
 - [E13: The Evolution of Everything: Search, Chatbots, and AI's Growing Pains](https://aiproduct.engineer/podcast/crm-show-e13)
 - [E12: AI's $1.5B Week: Spatial Intelligence Boom, EU Regulation Showdown, Meta vs Data Rule](https://aiproduct.engineer/podcast/crm-show-e12)
