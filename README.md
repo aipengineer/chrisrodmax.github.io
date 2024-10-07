@@ -1,6 +1,5 @@
 Chris Rod Max Show Official Website
 ==============
-# Welcome to The Chris Rod Max Show!
 
 ![Chris Rod Max](chrisrodmax.jpg "Chris Rod Max")
 
